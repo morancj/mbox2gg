@@ -8,6 +8,10 @@ Can be used to migrate mails from a Google Workspace user to a group: to do so, 
 
 [pecigonzalo](https://gist.github.com/pecigonzalo/c147e3f174fca90bec66efbd9eb24ad3) from [jacksonj04](https://gist.github.com/jacksonj04/60c1da79da8c86feea1b).
 
+## New upstream
+
+Probably best to use [pypi.org/project/mail2gg](https://pypi.org/project/mail2gg/) instead!
+
 ## Prerequisites
 
 - `pyenv`
