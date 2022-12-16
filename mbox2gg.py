@@ -10,9 +10,9 @@ import mailbox
 import io
 import time
 
-import apiclient
+import googleapiclient as apiclient
 import httplib2
-from apiclient import discovery
+from googleapiclient import discovery
 from oauth2client import client, tools
 from oauth2client.file import Storage
 
