@@ -30,6 +30,6 @@ Modified to skip mails over 25MiB following [this comment](https://gist.github.c
 
 ## Usage
 
-Install dependencies with: `pipenv install --python 3.8.2`
+Install dependencies with: `pipenv install`
 
 Run with: `python mbox2gg.py`
